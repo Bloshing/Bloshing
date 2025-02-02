@@ -4,7 +4,6 @@
 🤖 An aspiring Machine Learning Engineer sharing about my journey and learnings in tech<br/>
 💡 Studying [Machine Learning](https://cogsci.ucsd.edu/undergraduates/major/machine-learning.html) at University of California San Diego<br/>
 🎮 Coach for Valorant Gold at [UCSD Esports](https://recreation.ucsd.edu/esports/)<br/>
-🌐 My [Portfolio Website](http://127.0.0.1:5500) using HTML and CSS
 💻 Currently learning about HTML and CSS<br/>
 
 
